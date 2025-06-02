@@ -14,9 +14,9 @@ const Footer = () => {
             <a href="underconstruction" target='_black' className="hover:underline">Support</a>
           </div>
           <div className="flex space-x-6 text-lg">
-            <a href="https://www.linkedin.com/in/pravin-bagwale-1057a4327/" target='_black' className="hover:text-blue-400">LinkedIn</a>
-            <a href="https://x.com/pravinbagwale?s=11" target='_black' className="hover:text-blue-400">Twitter</a>
-            <a href="https://www.instagram.com/pravin_bagwale_0708?igsh=MW9oZjI3MXU5dzZzNQ%3D%3D&utm_source=qr" target='_black' className="hover:text-blue-400">Instagram</a>
+            <a href="https://www.linkedin.com/in/swapnil-ingale019/" target='_black' className="hover:text-blue-400">LinkedIn</a>
+            <a href="https://x.com/iamswapnil_1" target='_black' className="hover:text-blue-400">Twitter</a>
+            <a href="#" target='_black' className="hover:text-blue-400">Instagram</a>
           </div>
         </div>
       </footer>

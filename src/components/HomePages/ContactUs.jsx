@@ -9,10 +9,10 @@ const ContactUs = () => {
         </h2>
         <div className="text-center text-lg text-gray-600 mb-6">
           <p>Have questions or need support? We're here to help!</p>
-          <p>Reach out to us at <a href="mailto:bagwalepravin2863@gmail.com" className="text-blue-600 hover:underline">bagwalepravin2863@gmail.com</a></p>
+          <p>Reach out to us at <a href="mailto:swapnilingale2002@gmail.com" className="text-blue-600 hover:underline">swapnilingale2002@gmail.com</a></p>
         </div>
         <div className="flex justify-center space-x-6">
-          <a href="https://www.linkedin.com/in/pravin-bagwale-1057a4327/" target="_blank" className="text-blue-600 hover:text-blue-700 text-xl">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/swapnil-ingale019/" target="_blank" className="text-blue-600 hover:text-blue-700 text-xl">LinkedIn</a>
           {/* <a href="https://x.com/iamswapnil_1" target="_blank" className="text-blue-600 hover:text-blue-700 text-xl">Twitter</a> */}
           {/* <a href="#" className="text-blue-600 hover:text-blue-700 text-xl">Instagram</a> */}
         </div>
@@ -20,5 +20,4 @@ const ContactUs = () => {
     );
   };
 
-  
 export default ContactUs;
